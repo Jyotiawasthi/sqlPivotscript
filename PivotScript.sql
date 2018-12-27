@@ -1,4 +1,4 @@
-** Script For Getting Pivot Data
+--Script For Getting Pivot Data
 
 SET NOCOUNT ON
 
